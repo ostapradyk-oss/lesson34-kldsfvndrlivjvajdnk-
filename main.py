@@ -9,7 +9,7 @@ class Student:
         self.height+=height
 
 
-anton=Student('Anton', 14,170,871231243783246894321)
+anton=Student('Anton', 14,171,871231243783246894321)
 print('Name - '+ anton.name)
 print('Age - ', anton.age)
 print('Name - '+anton.name)
